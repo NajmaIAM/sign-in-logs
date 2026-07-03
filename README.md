@@ -12,7 +12,7 @@ Entra ID.<br />
 <h2>Sign-In Logs </h2>
 <p>
 <img width="1916" height="886" alt="image"
-src="https://github.com/user-attachments/assets/bae0b986-2d53-474f-9a86-c07b9b545a72" />
+" />
 </p>
 <p>
 Sign-In Logs of ourselves to interpret our own sign-in activity.
